@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjetosC#\\ApiTresCamadas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|d:\\projetosc#\\apitrescamadas\\src\\devio.business\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|d:\\projetosc#\\apitrescamadas\\src\\devio.business\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|d:\\projetosc#\\apitrescamadas\\src\\devio.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|d:\\projetosc#\\apitrescamadas\\src\\devio.business\\notificacoes\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\notificacoes\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|d:\\projetosc#\\apitrescamadas\\src\\devio.business\\interfaces\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\interfaces\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|d:\\projetosc#\\apitrescamadas\\src\\devio.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7BAFF-2855-A0C3-190C-DA462ABBE76C}|src\\DevIO.Business\\DevIO.Business.csproj|solutionrelative:src\\devio.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FornecedorService.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Services\\FornecedorService.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Services\\FornecedorService.cs",
+              "ToolTip": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Services\\FornecedorService.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Services\\FornecedorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:47:58.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Services\\BaseService.cs",
+              "ToolTip": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Services\\BaseService.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:39:54.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Notificacoes\\Notificador.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Notificacoes\\Notificador.cs",
+              "ToolTip": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Notificacoes\\Notificador.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Notificacoes\\Notificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:31:34.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Interfaces\\INotificador.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Interfaces\\INotificador.cs",
+              "ToolTip": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Interfaces\\INotificador.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Interfaces\\INotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:30:09.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "ToolTip": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Notificacoes\\Notificacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:27:14.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "ToolTip": "D:\\ProjetosC#\\ApiTresCamadas\\src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "src\\DevIO.Business\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T09:24:17.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
