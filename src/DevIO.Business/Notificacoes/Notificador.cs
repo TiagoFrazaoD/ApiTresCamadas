@@ -2,7 +2,7 @@
 
 namespace DevIO.Business.Notificacoes
 {
-    internal class Notificador : INotificador
+    public class Notificador : INotificador
     {
         private List<Notificacao> _notificacoes;
         public Notificador()

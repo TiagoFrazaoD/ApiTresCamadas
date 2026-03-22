@@ -13,6 +13,6 @@ namespace DevIO.Business.Models
         public DateTime DataCadastro { get; set; }
         public bool Ativo { get; set; }
 
-        public Fornecedor? Fornecedor { get; set; }
+        public Fornecedor Fornecedor { get; set; }
     }
 }
